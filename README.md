@@ -1,1 +1,1 @@
-A simple audio book app 
+This is just a demo to be rebuilt with react soon
